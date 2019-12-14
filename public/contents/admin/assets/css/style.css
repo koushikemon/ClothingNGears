@@ -1,0 +1,109 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  outline: 0px;
+}
+
+img{
+  border-radius: 0px;
+}
+
+ul, ol{
+  list-style-type: none;
+}
+
+a{
+  text-decoration: none;
+}
+
+body{
+
+}
+
+.card_header_title h3{
+    font-size: 17px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+    margin-top: 7px;
+}
+
+.card_header_btn a{
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+table.custom_table{
+
+}
+
+table.custom_table tr{
+
+}
+
+table.custom_table tr:nth-child(even){
+    background-color: #f7f7f7;
+}
+
+table.custom_table tr th{
+    background-color: #ddd;
+}
+
+.custom_form{
+
+}
+
+.custom_form label{
+    color: #000;
+    text-align: right;
+    font-weight: bold;
+    margin-right: -15px;
+    margin-top: -3px;
+}
+
+.custom_form .form-control{
+    border: 1px solid #ccc;
+}
+
+span.req_star{
+    color: red;
+}
+
+.has-error span.invalid-feedback{
+    display: block;
+    font-style: italic;
+    margin-left: 10px;
+}
+
+table.custom_view_table{
+
+}
+
+table.custom_view_table tr{
+
+}
+
+table.custom_view_table tr:nth-child(even){
+    background-color: #f7f7f7;
+}
+
+table.custom_view_table tr td:first-child{
+    width: 28%;
+    text-align: right;
+    font-weight: bold;
+}
+
+table.custom_view_table tr td:last-child{
+    width: 70%;
+    text-align: left;
+}
+
+.photo_sm{
+  height: 40px;
+  max-width: 60px;
+}
+
+.photo_md{
+  height: 100px;
+  max-width: 150px;
+}
